@@ -1,0 +1,1 @@
+# Online-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-Kursu-1-Kasim-2025
