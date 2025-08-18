@@ -4,7 +4,8 @@
 + Kurs __1 Kasım 2025 Cumartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır. Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
-+ Toplam kurs süresi __140__ saattir. Dersler __Cumartesi ve Pazar__ günleri __09:00 - 13:00__ saatleri arasında yapılacaktır.
++ Toplam kurs süresi __140__ saattir.
++ Dersler __Cumartesi ve Pazar__ günleri __09:00 - 13:00__ saatleri arasında (haftada 8 saat) yapılacaktır.
 + Kursumuzun toplam ücreti KDV dahil __35.000__ TL’dir (Peşin ödemede __30.000__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __31.000__ TL’dir (Peşin ödemede __27.000__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 3 taksit olarak ödeyebilirsiniz.
 
 ## Kursla ilgili bağlantılar
