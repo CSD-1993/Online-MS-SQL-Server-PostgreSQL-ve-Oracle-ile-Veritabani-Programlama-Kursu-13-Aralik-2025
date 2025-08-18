@@ -1,4 +1,4 @@
-# Online-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-Kursu-1-Kasim-2025
+# Online MS SQL Server PostgreSQL ve Oracle ile Veritabani Programlama Kursu 1 Kasim 2025
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve Sistem Bilgisayar işbirliği ile düzenlenmektedir.
 + Kurs __1 Kasım 2025 Cumartesi__ günü başlayacaktır.
@@ -8,7 +8,7 @@
 + Kursumuzun toplam ücreti KDV dahil __35.000__ TL’dir (Peşin ödemede __30.000__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __31.000__ TL’dir (Peşin ödemede __27.000__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 3 taksit olarak ödeyebilirsiniz.
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı]()
-+ [Kurs İçeriği]()
-+ [Sık Sorulan Sorular]()
-+ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz]()
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-Kursu-1-Kasim-2025/blob/main/kurs_tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-Kursu-1-Kasim-2025/blob/main/kurs_icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-Kursu-1-Kasim-2025/blob/main/sss.md)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz](https://us02web.zoom.us/meeting/register/0G-v8ir1To6IH3U6CnyfZg#/registration)
