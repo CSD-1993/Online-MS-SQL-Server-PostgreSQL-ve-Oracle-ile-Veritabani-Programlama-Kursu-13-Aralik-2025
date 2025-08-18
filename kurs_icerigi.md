@@ -157,3 +157,6 @@
 + Fonksiyonlar ve procedure'ler
 + Trigger'lar
 + View'lar
+
+## Kursa Kayıt
+[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/0G-v8ir1To6IH3U6CnyfZg#/registration)
