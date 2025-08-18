@@ -1,4 +1,4 @@
-# Online MS-SQL Server PostgreSQL ve Oracle ile Veritabanı Programlama Kursu 1 Kasım 2025
+# Online MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama Kursu 1 Kasım 2025
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve Sistem Bilgisayar işbirliği ile düzenlenmektedir.
 + Kurs __1 Kasım 2025 Cumartesi__ günü başlayacaktır.
