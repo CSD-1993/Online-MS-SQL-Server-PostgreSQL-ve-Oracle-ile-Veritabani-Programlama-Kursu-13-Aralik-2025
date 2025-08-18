@@ -1,4 +1,4 @@
-# MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama
+# MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama (140 Saat)
 
 ## Temel Veritabanı kavramları
 + Veritabanı kavramı
