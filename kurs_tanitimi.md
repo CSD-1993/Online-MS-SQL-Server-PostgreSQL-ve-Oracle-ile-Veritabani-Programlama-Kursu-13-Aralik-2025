@@ -70,8 +70,9 @@ _MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama_ kursu ilgili e
 ## Eğitim Ücreti
 Kursumuzun toplam ücreti KDV dahil __35.000__ TL’dir (Peşin ödemede __30.000__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __31.000__ TL’dir (Peşin ödemede __27.000__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 3 taksit olarak ödeyebilirsiniz.
 
-## Eğitim Programına Kayıt
-[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/0G-v8ir1To6IH3U6CnyfZg#/registration). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+## Kursa Kayıt
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/0G-v8ir1To6IH3U6CnyfZg#/registration). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız. **Kursa kayıtta kullandığınız e-posta adresiniz ile Zoom'da kayıtlı e-posta adresinizin aynı olması gerekmektedir**. Kursa kesin kaydınız için sizinle iletişime geçeceğiz.
+
 
 ## Sık Sorulan Sorular
 _MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-Kursu-1-Kasim-2025/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
